@@ -1,0 +1,8 @@
+@import './base.css';
+
+hr {
+    border: none;
+    background-color: var(--tag-color);
+    height: 0.6px;
+    z-index: 1;
+}
